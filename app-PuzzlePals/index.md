@@ -5,7 +5,6 @@
 **Effective date:** [16 11 2026]
 **Contact:** info@enrivolv.com
 
-> Host this page on the Enrivolv website (for example `https://www.enrivolv.com/puzzlepals/privacy-policy`) and paste that URL into Google Play Console → *App content → Privacy policy* and into `AppConfig.privacyPolicyUrl`.
 
 ## Summary
 
